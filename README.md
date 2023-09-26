@@ -10,7 +10,7 @@ This is a small PoC.
 - Clone this repository and install dependencies using the package manager of your choice.
 - Run the `dev` script from `package.json` using your package manager (ex: `npm run dev` or `yarn dev`)
 - While the program is running, make a change to cause a restart in `vite-node`, for example
-  change the `Hello World` text in `src/main.ts` and save.
+  change the `Hello World` text in `main.ts` and save.
 
 ## Expectation
 
